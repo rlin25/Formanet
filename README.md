@@ -11,11 +11,11 @@ Formanet is a front-end presentation of my adventures wih photography and concep
 
 Visualizations are organized by chart type. So far these have been added.
 
-| Title | Subtitle | Visualization |
+| Title | Type | Purpose |
 | --- | --- | --- |
-|[EXPLORE REALITY](https://public.flourish.studio/visualisation/11930261/)|Photo Map|Photo Marker Map|
-|[ENCOUNTER WONDER](https://public.flourish.studio/visualisation/11917558/)|Concept Net|Network Graph|
-|[EMBRACE IDENTITY](https://public.flourish.studio/visualisation/11919306/)|Character Sheet|Radar Chart|
+|[EXPLORE REALITY](https://public.flourish.studio/visualisation/11930261/)|Photo Map|Scenic Austin from an adventurer's perspective|
+|[ENCOUNTER WONDER](https://public.flourish.studio/visualisation/11917558/)|Concept Net|Terms definitions and their associations|
+|[EMBRACE IDENTITY](https://public.flourish.studio/visualisation/11919306/)|Character Sheet|Arbitrary character and skill assessments|
 
 The project is constantly expanding. Charts are added as I learn new concepts.
 
