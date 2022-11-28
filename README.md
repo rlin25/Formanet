@@ -13,15 +13,11 @@ Visualizations are organized by chart type. So far these have been added.
 
 | Title | Subtitle | Visualization |
 | --- | --- | --- |
-|[Explore Reality](https://public.flourish.studio/visualisation/11930261/)|Photo Map|Photo Marker Map|
-|[Discover Wonder](https://public.flourish.studio/visualisation/11917558/)|Concept Net|Network Graph|
-|[Advance Skill](https://public.flourish.studio/visualisation/11919306/)|Character Sheet|Radar Chart|
+|[EXPLORE REALITY](https://public.flourish.studio/visualisation/11930261/)|Photo Map|Photo Marker Map|
+|[ENCOUNTER WONDER](https://public.flourish.studio/visualisation/11917558/)|Concept Net|Network Graph|
+|[EMBRACE IDENTITY](https://public.flourish.studio/visualisation/11919306/)|Character Sheet|Radar Chart|
 
 The project is constantly expanding. Charts are added as I learn new concepts.
-
-```js
-<div class="flourish-embed flourish-cards" data-src="visualisation/11964301"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-```
 
 ## Attributions
 
