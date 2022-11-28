@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="BANNER" style="max-width:100%;">
-</p>
-
 # Formanet
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
@@ -18,8 +14,8 @@ Visualizations are organized by chart type. So far these have been added.
 | Title | Subtitle | Visualization |
 | --- | --- | --- |
 |[Explore Reality](https://public.flourish.studio/visualisation/11930261/)|Austin Photo Map|Photo Marker Map|
-|[Explore Reality](https://public.flourish.studio/visualisation/11917558/)|Term Concept Net|Network Graph|
-|[Explore Reality](https://public.flourish.studio/visualisation/11919306/)|Character Sheet|Radar Chart|
+|[Encounter Wonder](https://public.flourish.studio/visualisation/11917558/)|Term Concept Net|Network Graph|
+|[Discover Meaning](https://public.flourish.studio/visualisation/11919306/)|Character Sheet|Radar Chart|
 
 The project is constantly expanding. Charts are added as I learn new concepts.
 
@@ -27,7 +23,7 @@ The project is constantly expanding. Charts are added as I learn new concepts.
 
 This project is built with the help of following libraries and projects.
 
-* [D3.js](https://github.com/d3/d3)
+* [Flourish](https://flourish.studio/)
 * [Bootstrap](https://github.com/twbs/bootstrap)
 * [For The Badge](https://forthebadge.com/)
 
