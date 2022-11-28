@@ -19,7 +19,9 @@ Visualizations are organized by chart type. So far these have been added.
 
 The project is constantly expanding. Charts are added as I learn new concepts.
 
+```js
 <div class="flourish-embed flourish-cards" data-src="visualisation/11964301"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+```
 
 ## Attributions
 
