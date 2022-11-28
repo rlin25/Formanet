@@ -14,8 +14,8 @@ Visualizations are organized by chart type. So far these have been added.
 | Title | Subtitle | Visualization |
 | --- | --- | --- |
 |[Explore Reality](https://public.flourish.studio/visualisation/11930261/)|Austin Photo Map|Photo Marker Map|
-|[Encounter Wonder](https://public.flourish.studio/visualisation/11917558/)|Term Concept Net|Network Graph|
-|[Discover Meaning](https://public.flourish.studio/visualisation/11919306/)|Character Sheet|Radar Chart|
+|[Discover Wonder](https://public.flourish.studio/visualisation/11917558/)|Term Concept Net|Network Graph|
+|[Advance Skill](https://public.flourish.studio/visualisation/11919306/)|Character Sheet|Radar Chart|
 
 The project is constantly expanding. Charts are added as I learn new concepts.
 
