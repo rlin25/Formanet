@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 
-> Data visualization is an interdisciplinary field that deals with the graphic representation of data and information. It is also the study of visual representations of abstract data to reinforce human cognition, including both numerical and non-numerical data.
+> Data and information visualization (data viz or info viz) is an interdisciplinary field that deals with the graphic representation of data and information. It is a particularly efficient way of communicating when the data or information is numerous as for example a time series.
 > -- <cite>Wikipedia</cite>
 
 Formanet is a front-end project presentation of my adventures wih photography and conceptualization. It provides insights into the ways I visualize the world around me. The interactive visuals used in the project makes it an effective tool for connecting concepts.
