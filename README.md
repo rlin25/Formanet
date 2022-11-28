@@ -14,7 +14,7 @@ Visualizations are organized by chart type. So far these have been added.
 | Title | Type | Purpose |
 | --- | --- | --- |
 |[EXPLORE REALITY](https://public.flourish.studio/visualisation/11930261/)|Photo Map|Scenic Austin from an adventurer's perspective|
-|[ENCOUNTER WONDER](https://public.flourish.studio/visualisation/11917558/)|Concept Net|Terms definitions and their associations|
+|[ENCOUNTER WONDER](https://public.flourish.studio/visualisation/11917558/)|Concept Graph|Terms definitions and their associations|
 |[EMBRACE IDENTITY](https://public.flourish.studio/visualisation/11919306/)|Character Sheet|Arbitrary character and skill assessments|
 
 The project is constantly expanding. Charts are added as I learn new concepts.
